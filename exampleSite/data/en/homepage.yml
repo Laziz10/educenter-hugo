@@ -28,13 +28,13 @@ banner_feature:
     content: My name is Laziz Yuldoshev
 about:
   enable: true
-  title: About Educenter
-  image: images/about/about-us.jpg
+  title: Resume
+  image: images/1.jpg
   content: Bolalar Guruhi
   button:
     enable: true
-    label: Learn more
-    link: about
+    label: Resume
+    link: resume_ay.pdf
 course:
   enable: true
   title: Our Course
