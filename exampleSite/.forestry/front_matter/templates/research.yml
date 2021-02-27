@@ -3,8 +3,8 @@ label: Research
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: Pro
+  label: Pro
 - type: datetime
   name: date
   label: date
