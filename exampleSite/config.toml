@@ -134,7 +134,7 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "Certifications"
 url = "course"
-weight = 2
+weight = 3
 
 # [[Languages.en.menu.main]]
 # weight = 3
@@ -169,7 +169,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "Projects"
 url = "blog"
-weight = 4
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "LINKEDIN"
