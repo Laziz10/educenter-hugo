@@ -131,14 +131,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = ""
 author = "Laziz Yuldoshev"
 contact_form_action = "#"
 description = "Portfolio Website"
-email = "info@educenter.com"
+email = "ayuldosh@uncc.edu"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "917 371 32 40"
+mobile = "9173713240"
 top_header = true
 [params.cookies]
 enable = false
