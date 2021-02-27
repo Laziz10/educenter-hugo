@@ -1,6 +1,8 @@
 ---
-title: My Projects
-bg_image: "/images/new.png"
-description: Here you can see my projects
+title: Projects A
+bg_image: images/backgrounds/page-title.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 
 ---
