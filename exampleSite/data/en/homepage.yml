@@ -21,7 +21,7 @@ slider:
       link: contact
 banner_feature:
   enable: true
-  image: images/banner/banner-feature.png
+  image: images/ays.png
   feature_item:
   - name: About Me
     icon: ''
