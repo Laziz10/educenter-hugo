@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "See Projects"
-        link : "course"
+        link : "blog"
 
 
 ############################### Banner feature ###############################
