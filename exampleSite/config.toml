@@ -138,7 +138,7 @@ description = "This is meta description"
 email = "info@educenter.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "917 371 32 40"
 top_header = true
 [params.cookies]
 enable = true
