@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: images/banner/banner-1.jpg
+  bg_image: images/new.png
   slider_item:
   - title: Welcome to My Portfolio Website!
     content: ''
