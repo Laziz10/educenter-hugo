@@ -1,6 +1,6 @@
 baseURL = "http://laziz.netlify.com"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "UNCC"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
