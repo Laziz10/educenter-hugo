@@ -29,7 +29,7 @@ banner_feature:
 about:
   enable: true
   title: Resume
-  image: images/1.jpg
+  image: images/new.png
   content: Bolalar Guruhi
   button:
     enable: true
