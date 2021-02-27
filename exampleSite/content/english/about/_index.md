@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: About
 bg_image: "/images/new.png"
 image: images/about/about-page.jpg
-description: Welcome to My Website
+description: More Information
 
 ---
-## ABOUT OUR JOURNY
+## Laziz Yuldoshev
 
 Real Madrid
