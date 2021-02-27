@@ -1,10 +1,12 @@
 ---
-title: About
-bg_image: "/images/new.png"
+title: About Us
+bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: More Information
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 
 ---
-## Laziz Yuldoshev
+## ABOUT OUR JOURNY
 
-Real Madrid
+Moscow
