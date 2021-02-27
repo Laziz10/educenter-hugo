@@ -34,7 +34,7 @@ about:
   button:
     enable: true
     label: Resume
-    link: resume_ay.pdf
+    link: https://dsba.uncc.edu/
 course:
   enable: true
   title: Our Course
