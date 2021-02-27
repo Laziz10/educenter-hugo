@@ -132,7 +132,7 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Projects"
+name = "Certifications"
 url = "course"
 weight = 2
 
@@ -167,7 +167,7 @@ weight = 2
 #  url = "research"
 
 [[Languages.en.menu.main]]
-name = "Certifications"
+name = "Projects"
 url = "blog"
 weight = 4
 
