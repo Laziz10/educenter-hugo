@@ -85,8 +85,8 @@
 # - id: links
 # translation: links
 
-- id: courses
-  translation: Projects
+#- id: courses
+#  translation: Projects
 
 # - id: new_notice
 #  translation: new notice
