@@ -3,7 +3,7 @@ title: Credit Card Fraud Detection
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: "/images/new.png"
 description: ''
-image: "/images/nt1.png"
+image: "/images/nt1-1.png"
 author: Laziz Yuldoshev
 categories:
 - Artificial Neural Networks
