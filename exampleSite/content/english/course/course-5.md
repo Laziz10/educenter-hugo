@@ -14,7 +14,7 @@ apply_url: "#"
 ---
 ### About Certification
 
-Intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud.
+Intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud. </p>
 
 ### Skills
 
