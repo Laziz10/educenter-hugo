@@ -11,8 +11,8 @@ slider:
       enable: false
       label: Apply now
       link: contact
-  - title: I am Graduate Student at UNC Charlotte.
-    content: Please check my resume below
+  - title: I am Data Science Graduate Student at UNC Charlotte
+    content: Click Below for My Resume
     animation_in: left
     animation_out: right
     button:
