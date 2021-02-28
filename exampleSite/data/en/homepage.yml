@@ -11,10 +11,8 @@ slider:
       enable: false
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: I am Graduate Student at UNC Charlotte.
+    content: Please check my resume below
     animation_in: left
     animation_out: right
     button:
