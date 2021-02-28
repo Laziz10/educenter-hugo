@@ -1,12 +1,18 @@
 ---
-title: About Us
-bg_image: images/backgrounds/page-title.jpg
-image: images/about/about-page.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+title: About
+bg_image: images/new.png
+image: ''
+description: ''
 
 ---
-## ABOUT OUR JOURNY
+## ABOUT MY JOURNEY
 
-Moscow
+### Education:
+
+* MS at UNC Charlotte DSBA (2020-2021);
+* BS at Westminster University (2011-2015).
+
+### Professional:
+
+* Tax Committee (2018-2020);
+* Deloitte CIS (2015-2017).
