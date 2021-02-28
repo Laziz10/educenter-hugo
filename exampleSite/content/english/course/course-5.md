@@ -1,7 +1,7 @@
 ---
 title: AWS Cloud Practioner
 date: 2019-07-06T15:27:17.000+06:00
-bg_image: "/images/aws1.png"
+bg_image: "/images/new.png"
 description: ''
 image: "/images/aws2.png"
 category: Programming
