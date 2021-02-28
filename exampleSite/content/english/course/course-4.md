@@ -9,7 +9,7 @@ teacher: ''
 duration: ''
 weekly: ''
 fee: ''
-apply_url: "#https://www.youracclaim.com/badges/2bd73563-c128-45d7-bff7-5308ba4c8d24?source=linked_in_profile"
+apply_url: "#(https://www.youracclaim.com/badges/2bd73563-c128-45d7-bff7-5308ba4c8d24?source=linked_in_profile)"
 
 ---
 ### About Certification
