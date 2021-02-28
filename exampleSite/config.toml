@@ -19,11 +19,11 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "Certifications"
 url = "course"
-weight = 3
+weight = 2
 [[Languages.en.menu.main]]
 name = "Projects"
 url = "blog"
-weight = 2
+weight = 3
 [[Languages.en.menu.main]]
 name = "LINKEDIN"
 url = "https://www.linkedin.com/in/laziz-yuldoshev-870280ab/"
