@@ -7,8 +7,8 @@
 - id: send
   translation: send message
 
-- id: contact_info
-  translation: Contact Info
+#- id: contact_info
+#  translation: Contact Info
 
 - id: subscribe_newsletter
   translation: Subscribe Newsletter
@@ -58,8 +58,8 @@
 - id: fee
   translation: fee
 
-- id: teacher
-  translation: teacher
+#- id: teacher
+#  translation: teacher
 
 - id: location
   translation: location
