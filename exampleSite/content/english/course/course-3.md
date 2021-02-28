@@ -18,6 +18,6 @@ AWS Machine Learning Specialty </p>
 
 ### Skills
 
-* Skill 1Lorem ipsum dolor sit amet consectetur adipisicing elit;
-* Skill 2Lorem ipsum dolor sit amet consectetur adipisicing elit;
-* Skill 3Lorem ipsum dolor sit amet consectetur adipisicing elit.
+* Skill 1;
+* Skill 2;
+* Skill 3.
