@@ -1,6 +1,6 @@
 ---
-title: UNC Spring Semester
-bg_image: images/backgrounds/page-title.jpg
-description: this is meta description
+title: Projects
+bg_image: "/images/new.png"
+description: ''
 
 ---
