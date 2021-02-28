@@ -97,7 +97,7 @@ contact_form_action = "#"
 description = ""
 email = "(917) 371 32 40"
 google_analitycs_id = ""
-logo = "images/ays.png"
+logo = "images/logo.png"
 top_header = false
 [params.cookies]
 enable = false
