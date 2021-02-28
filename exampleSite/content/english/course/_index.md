@@ -1,7 +1,7 @@
 ---
-title: Tableau
+title: Certifications
 bg_image: "/images/new.png"
 description: ''
-image: "/images/tab1.jpg"
+image: ''
 
 ---
