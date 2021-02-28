@@ -14,7 +14,7 @@ apply_url: "#"
 ---
 ### About Certification
 
-The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications.
+Intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud.
 
 ### Skills
 
