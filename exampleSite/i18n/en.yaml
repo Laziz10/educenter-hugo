@@ -37,8 +37,8 @@
 - id: posted_by
   translation: Posted by
 
-- id: date
-  translation: Date
+#- id: date
+#  translation: Date
 
 - id: time
   translation: time
@@ -49,11 +49,11 @@
 - id: related_course
   translation: Related Course
 
-- id: duration
-  translation: duration
+#- id: duration
+#  translation: duration
 
-- id: weekly
-  translation: weekly
+#- id: weekly
+ # translation: weekly
 
 - id: fee
   translation: fee
