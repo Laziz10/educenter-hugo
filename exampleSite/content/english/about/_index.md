@@ -1,7 +1,7 @@
 ---
 title: About
 bg_image: images/new.png
-image: ''
+image: images/unc1.jpg
 description: ''
 
 ---
