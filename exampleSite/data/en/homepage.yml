@@ -25,7 +25,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: See Projects
+      label: See My Projects
       link: blog
 banner_feature:
   enable: false
