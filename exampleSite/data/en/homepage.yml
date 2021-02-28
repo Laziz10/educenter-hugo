@@ -19,10 +19,8 @@ slider:
       enable: true
       label: Resume
       link: images/resume_ay.pdf
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Data Science Projects
+    content: ''
     animation_in: left
     animation_out: right
     button:
