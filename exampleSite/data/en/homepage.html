@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = 'UTF-8'>
+    <title>The Big Five Personality Traits</title>
+    <link href = "big5.css" rel = "stylesheet" type = "text/css">
+</head>
+<body>
+<h1 class ='body'> The Big Five Personality Traits</h1>
+
+<svg class = 'body' width = '600' height= '400'>
+
+    <!-- code to draw bars   -->
+    <rect class = 'bar' width = '365' height='50' x='50' y='30'/>
+    <rect class = 'bar' width = '250' height='50' x='50' y='90'/>
+    <rect class = 'bar' width = '325' height='50' x='50' y='150'/>
+    <rect class = 'bar' width = '280' height='50' x='50' y='210'/>
+    <rect class = 'bar' width = '210' height='50' x='50' y='270'/>
+    <!-- Add 4 more bars just like the one above but the width is calculated based on your big5 scores (width= yourscore% * 500) -->
+
+    <!-- code to draw labels for the bars   -->
+    <text class= 'bar' x='415' y='50' dx='5' dy='12'>73%</text>
+    <text class= 'bar' x='300' y='110' dx='5' dy='12'>50%</text>
+    <text class= 'bar' x='375' y='170' dx='5' dy='12'>65%</text>
+    <text class= 'bar' x='330' y='230' dx='5' dy='12'>56%</text>
+    <text class= 'bar' x='260' y='290' dx='5' dy='12'>42%</text>
+
+    <!-- code to draw texts for the y-axis   -->
+    <text class = 'ylabel' x='30' y='50'  dy='12'>O</text>
+    <text class = 'ylabel' x='30' y='110' dy='12'>C</text>
+    <text class = 'ylabel' x='30' y='170' dy='12'>E</text>
+    <text class = 'ylabel' x='30' y='230' dy='12'>A</text>
+    <text class = 'ylabel' x='30' y='290' dy='12'>N</text>
+
+    <!-- code to draw gridlines   -->
+    <line class= 'line' x1 ='50' y1='20' x2='50'  y2='330'/>
+    <line class= 'line' x1 ='100' y1='20' x2='100' y2='330'/>
+    <line class= 'line' x1 ='150' y1='20' x2='150' y2='330'/>
+    <line class= 'line' x1 ='200' y1='20' x2='200' y2='330'/>
+    <line class= 'line' x1 ='250' y1='20' x2='250' y2='330'/>
+    <line class= 'line' x1 ='300' y1='20' x2='300' y2='330'/>
+    <line class= 'line' x1 ='350' y1='20' x2='350' y2='330'/>
+    <line class= 'line' x1 ='400' y1='20' x2='400' y2='330'/>
+    <line class= 'line' x1 ='450' y1='20' x2='450' y2='330'/>
+    <line class= 'line' x1 ='500' y1='20' x2='500' y2='330'/>
+    <line class= 'line' x1 ='550' y1='20' x2='550' y2='330'/>
+
+    <!-- code to draw texts for the x-axis   -->
+    <text class = 'xlabel' x='50'  y='330' dy='15'>0</text>
+    <text class = 'xlabel' x='100' y='330' dy='15'>10</text>
+    <text class = 'xlabel' x='150' y='330' dy='15'>20</text>
+    <text class = 'xlabel' x='200' y='330' dy='15'>30</text>
+    <text class = 'xlabel' x='250' y='330' dy='15'>40</text>
+    <text class = 'xlabel' x='300' y='330' dy='15'>50</text>
+    <text class = 'xlabel' x='350' y='330' dy='15'>60</text>
+    <text class = 'xlabel' x='400' y='330' dy='15'>70</text>
+    <text class = 'xlabel' x='450' y='330' dy='15'>80</text>
+    <text class = 'xlabel' x='500' y='330' dy='15'>90</text>
+    <text class = 'xlabel' x='550' y='330' dy='15'>100</text>
+
+</svg>
+</body>
+</html>
