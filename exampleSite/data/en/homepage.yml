@@ -1,0 +1,92 @@
+---
+slider:
+  enable: true
+  bg_image: images/new.png
+  slider_item:
+  - title: Hi I am Laziz! Welcome to My Website!
+    content: ''
+    animation_in: left
+    animation_out: right
+    button:
+      enable: false
+      label: Apply now
+      link: contact
+  - title: I am Data Science Graduate Student at UNC Charlotte
+    content: Click Below for My Resume
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Resume
+      link: images/resume_ay.pdf
+  - title: Data Science Projects
+    content: ''
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: See My Projects
+      link: blog
+banner_feature:
+  enable: false
+  image: images/banner/banner-feature.png
+  feature_item:
+  - name: Scholorship News
+    icon: ti-book
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Our Notice Board
+    icon: ti-blackboard
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Our Achievements
+    icon: ti-agenda
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Admission Now
+    icon: ti-write
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+about:
+  enable: true
+  title: Laziz Yuldoshev
+  image: images/ays.png
+  content: "Graduate Student at [UNCC Data Science Program](https://dsba.uncc.edu)\n\nI
+    am a data scientist with 5 years of experience in various industries. This website
+    is about my background experience, projects, and certifications.  "
+  button:
+    enable: true
+    label: Resume
+    link: images/resume_ay.pdf
+course:
+  enable: true
+  title: Certifications
+cta:
+  enable: false
+  subtitle: Click to Join the Advance Workshop
+  title: Training In Advannce Networking
+  button:
+    enable: false
+    label: join now
+    link: contact
+success_story:
+  enable: false
+  bg_image: images/backgrounds/success-story.jpg
+  title: My YouTube Channel
+  content: My YouTube Channel is about machine learning models
+  video_link: https://www.youtube.com/watch?v=ua-CiDNNj30
+event:
+  enable: false
+  title: Upcoming Events
+funfacts:
+  enable: false
+  funfact_item:
+  - name: COURSES
+    count: "50"
+  - name: STUDENTS
+    count: "1000"
+  - name: SATISFIED CLIENT
+    count: "1400"
+blog:
+  enable: true
+  title: Projects
